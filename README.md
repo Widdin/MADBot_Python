@@ -24,4 +24,6 @@
     * **Screenshot_path:**
         * Locate the screenshot folder within Map-A-Droid with the terminal, run `pwd`, paste into `config.ini`
         
-4. Run the bot with `python start_bot.py`
+4. Replace `YOUR_CLIENT_ID_HERE` in `https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0` with your `CLIENT ID` which can be found on `General Information` tab on the [application site](https://discordapp.com/developers/applications/). Then paste the link in your browser and select your server.
+        
+5. Run the bot with `python start_bot.py`

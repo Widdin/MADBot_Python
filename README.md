@@ -1,6 +1,13 @@
 # MADBot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OfficialWiddin/MADBot_Python/master/Images/mad_logo_round.png" width="100" align="right">
+</p>
+
 This is a Bot written in Python3.6 that downloads user-submitted images on Discord for Map-A-Droid.  
 If you prefer JavaScript or Telegram, [Click here](https://github.com/LegitDongo/MADBot)
+
+
+
 ## Requirements:  
 * [Map-A-Droid](https://github.com/Grennith/Map-A-Droid)  
 * Python3.6

@@ -1,4 +1,4 @@
 [settings]
 token = XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX
-channel_id = 123123123123123123
+channel_id = [123123123123123123] # Use , to add multiple channels
 screenshot_path = /root/Map-A-Droid/screenshots/

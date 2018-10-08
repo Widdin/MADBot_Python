@@ -21,7 +21,7 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    if len(message.attachments) == 1 and message.channel.id == config['settings']['channel_id']:
+    if len(message.attachments) == 1 and message.channel.id in config['settings']['channel_id']:
         img_url = message.attachments[0]['url']
         async with aiohttp.ClientSession() as ses:
             async with ses.get(img_url) as r:

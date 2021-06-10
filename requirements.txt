@@ -5,7 +5,7 @@ chardet==3.0.4
 configparser==3.5.0
 discord==0.0.2
 discord.py==0.16.12
-Django==2.2.18
+Django==2.2.24
 idna==2.7
 idna-ssl==1.1.0
 image==1.5.27
